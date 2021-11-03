@@ -47,24 +47,12 @@ npx react-native run-android
 
 ## Screenshots
 
-### Phone 1 - Requester
-
-<img src=".docs/requester-init.png" width = 35% height = 50% style="margin:1em">
-
-<img src=".docs/request-started.png" width = 35% height = 50% style="margin:1em">
-
-<img src=".docs/requester-auth.png" width = 35% height = 50% style="margin:1em">
-
-
-### Phone 2 - Sharer
-
-<img src=".docs/sharer-init.png" width = 35% height = 50% style="margin:1em">
-
-<img src=".docs/share-started.png" width = 35% height = 50% style="margin:1em">
-
-<img src=".docs/allowshare.png" width = 35% height = 50% style="margin:1em">
-
-<img src=".docs/sharer-auth.png" width = 35% height = 50% style="margin:1em">
+Phone 1 Requester           |  Phone 2 Sharer
+:-------------------------:|:-------------------------:
+<img src=".docs/requester-init.png" width="200" height="400" /> | <img src=".docs/sharer-init.png" width="200" height="400" />
+<img src=".docs/request-started.png" width="200" height="400" />| <img src=".docs/share-started.png" width="200" height="400" />
+<img src=".docs/requester-auth.png" width="200" height="400" /> | <img src=".docs/allowshare.png" width="200" height="400" />
+ || <img src=".docs/sharer-auth.png" width="200" height="400" />
 
 ## Sources
 
@@ -75,11 +63,3 @@ npx react-native run-android
 **Official Documentation Guide** : [Guide](https://developer.huawei.com/consumer/en/doc/development/HMS-Plugin-Guides/about-the-service-0000001053940431)
 
 **Official Documentation Reference** : [Reference](https://developer.huawei.com/consumer/en/doc/development/HMS-Plugin-References/hms-application-0000001073654825)
-
-### Medium
-
-**Plugin Installation** : 
-
-**Chat Application** : 
-
-**Wifi Sharing Application** : 
